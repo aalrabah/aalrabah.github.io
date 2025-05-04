@@ -1,1 +1,27 @@
+title: "Abdulrahman AlRabah"
+email: "you@example.com"
+description: >-
+  My personal academic website.
+baseurl: "" # Leave this empty for GitHub Pages
+url: "https://yourusername.github.io"
+github_username: yourusername
+repository: yourusername/yourusername.github.io
 
+# Author information
+author:
+  name: "Abdulrahman AlRabah"
+  avatar: "images/profile.png"
+  bio: "PhD student at UIUC | AI in Education | Algo Trader"
+  location: "Kuwait / Illinois"
+  email: "you@example.com"
+  github: yourusername
+  linkedin: yourlinkedin
+  twitter: yourtwitter
+
+# Build settings
+theme: minimal
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
