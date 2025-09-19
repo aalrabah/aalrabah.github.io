@@ -23,7 +23,7 @@ repository               : "aalrabah/aalrabah.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "mypic.jpg"
+  avatar           : "my_pic.jpg"
   name             : "Abdulrahman AlRabah"
   pronouns         : # example: "she/her"  
   bio              : "PhD in CS"
