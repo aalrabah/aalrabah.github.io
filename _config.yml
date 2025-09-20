@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
+site_theme               : "air" # Currently available options are "default", "air"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Abdulrahman AlRabah"
@@ -40,7 +40,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0002-4113-6441"
   semantic         : # URL
-  pubmed           : ""
+  pubmed           : #
   researchgate     : # URL
   scopus           : # URL
 
