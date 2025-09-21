@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student in Computer Science at the University of Illinois Urbana-Champaign, advised by Prof. Abdussalam Alawini and collaborating with Prof. Dilek Hakkani-Tür.  
+I am a first-year PhD student in Computer Science at the University of Illinois Urbana-Champaign, advised by Prof. Abdussalam Alawini.
 
 My research focuses on developing AI-driven educational technology, with particular interests in:  
 - Intelligent tutoring systems  
