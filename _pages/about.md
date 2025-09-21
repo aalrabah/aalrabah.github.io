@@ -7,15 +7,18 @@ redirect_from:
   - /about.html
 ---
 
+## About Me
 I am a first-year PhD student in Computer Science at the University of Illinois Urbana-Champaign, advised by Prof. Abdussalam Alawini.
-
-My research focuses on developing AI-driven educational technology, with particular interests in:  
+## Research Interests
 - Intelligent tutoring systems  
 - Knowledge graph construction and visualization  
 - Natural language processing for learning analytics  
 
-Currently, I am building an intelligent tutoring platform that integrates course materials, SQL assessments, and personalized student feedback through interactive graph-based visualizations.  
+## Current Work
+I am building an intelligent tutoring platform that integrates course materials, SQL assessments, and personalized student feedback through interactive graph-based visualizations.
 
-Before starting my PhD, I [insert short background about your degree or experience].  
+## Background
+Before starting my PhD, I [insert short background about your degree or experience].
 
-Outside of research, I enjoy [optional hobby/interest].  
+## Beyond Research
+Outside of research, I enjoy [optional hobby/interest].
