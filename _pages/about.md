@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "/n/n/nالســــــــــــلام علــــــــــــيكم"
+title: "الســــــــــــلام علــــــــــــيكم"
 author_profile: true
 redirect_from: 
   - /about/
