@@ -1,7 +1,9 @@
 ---
 ---
 
-/* Remove underline from h2 */
+/* Custom overrides */
+
+/* Remove underline under section headers */
 .page__content h2 {
   border-bottom: none !important;
 }
@@ -15,7 +17,7 @@
   margin-left: 340px !important;
 }
 
-/* Mobile override */
+/* Mobile: reset to full width */
 @media (max-width: 768px) {
   .sidebar {
     width: 100% !important;
