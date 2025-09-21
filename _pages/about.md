@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
+# About Me
 I am a first-year PhD student in Computer Science at the University of Illinois Urbana-Champaign, advised by [Prof. Abdussalam Alawini](https://cs.illinois.edu/about/people/faculty/alawini).
 
 ## Research Focus
