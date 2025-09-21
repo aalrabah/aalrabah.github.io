@@ -3,3 +3,23 @@
   border-bottom: 2px solid #ccc; /* you can pick a softer color */
   padding-bottom: 0.2em;
 }
+
+/* Wider sidebar */
+.sidebar {
+  width: 320px;
+}
+
+.page__content {
+  margin-left: 340px;
+}
+
+/* Optional: only apply on large screens */
+@media (max-width: 768px) {
+  .sidebar {
+    width: 100%;
+  }
+  .page__content {
+    margin-left: 0;
+  }
+}
+
