@@ -1,6 +1,6 @@
 ---
 title: "🦿 Biped"
-excerpt: "Short description of the project<br/><img src='/images/500x300.png'>"
+excerpt: "Short description of the project<br/><img src='images/biped-ground-station.mp4'>"
 collection: projects
 ---
 
