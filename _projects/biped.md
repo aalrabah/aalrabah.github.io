@@ -13,8 +13,6 @@ Our primary design goal was to simplify controller parameter tuning and real-tim
 
 ---
 
-This project demonstrates a biped control system with local ground-station integration.
-
 <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin-top: 20px;">
 
   <video width="640" height="360" controls>
