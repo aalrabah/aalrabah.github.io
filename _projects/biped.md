@@ -1,6 +1,5 @@
 ---
 title: "Biped"
-excerpt: "Short description of the project"
 collection: projects
 ---
 
