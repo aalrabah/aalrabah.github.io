@@ -4,7 +4,7 @@ collection: projects
 excerpt: ""
 ---
 
-As part of the CS 465 User-Interface Design team, we designed **Biped Ground Station (BGS)** — a user interface that streamlines the tuning and monitoring process for **Biped**, a two-wheeled self-balancing robot used in the University of Illinois’ embedded systems labs.  
+As part of the CS 465 User-Interface Design team, we designed Biped Ground Station (BGS) — a user interface that streamlines the tuning and monitoring process for Biped, a two-wheeled self-balancing robot used in the University of Illinois’ embedded systems labs.  
 
 Our primary design goal was to simplify controller parameter tuning and real-time performance visualization, replacing a tedious firmware-flashing workflow with an intuitive interface. The design process emphasized efficiency, clarity, and error-free iteration, informed by feedback from educators, researchers, and engineers working directly with Biped.
 
