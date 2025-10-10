@@ -1,5 +1,5 @@
 ---
-title: "Biped"
+title: ""
 collection: projects
 ---
 
