@@ -1,5 +1,6 @@
 ---
-title: "Designing and Evaluating a Testbed for the Matter Protocol: Insights into User Experience"
+title: "Designing and Evaluating a Testbed for 
+the Matter Protocol: Insights into User Experience"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-matter-protocol-testbed
