@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## About Me
-I am a first-year PhD student in Computer Science at the University of Illinois Urbana-Champaign, advised by [Prof. Abdussalam Alawini](https://cs.illinois.edu/about/people/faculty/alawini).
+I am a first-year PhD student in Computer Science at the University of Illinois Urbana-Champaign, advised by [Prof. Abdussalam Alawini](https://cs.illinois.edu/about/people/faculty/alawini) and [Prof. Dilek Hakkani-Tur] (https://siebelschool.illinois.edu/about/people/faculty/dilek) 
 
 ## Research Focus
 My research focuses on natural language processing (NLP), multi-agent systems, and knowledge graphs within the context of educational technology. I aim to design intelligent systems that improve personalized learning, enhance feedback for students and instructors, and leverage data-driven insights to support better educational outcomes.
