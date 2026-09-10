@@ -1,11 +1,8 @@
 name: Scrape Talk Locations
 
+# Disabled: talks are not used on this site. Trigger manually if ever needed.
 on:
-  push:
-    paths:
-      - 'talks/**'
-      - '_talks/**'
-      - 'talkmap.ipynb'
+  workflow_dispatch:
 
 jobs:
   build:
