@@ -1,6 +1,8 @@
 ---
 title: "GBC: Gradient-Based Connections for Optimizing Multi-Agent Systems"
 collection: publications
+year: 2026
+authors: 'Xiaocheng Yang, Abdulrahman AlRabah, Dilek Hakkani-Tür, Gokhan Tur'
 category: manuscripts
 permalink: /publication/2026-gbc-gradient-based-connections
 excerpt: 'Multi-agent systems built on LLMs are often limited by miscoordination and the lack of fine-grained credit assignment across agents. GBC models a multi-agent system as a computational graph and introduces gradient-based connection weights to attribute errors to specific agents and interaction steps, enabling targeted optimization.'

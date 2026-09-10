@@ -65,9 +65,13 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+{% assign pubs = site.publications | sort: "date" | reverse %}
+<ul>
+{% for pub in pubs %}
+  <li><a href="{{ pub.paperurl }}" target="_blank" rel="noopener noreferrer">{{ pub.title }}</a>{% if pub.award %} &#127942; {{ pub.award }}{% endif %}<br>
+  <span style="font-size:0.9em">{{ pub.authors }}. <i>{{ pub.venue }}</i>, {{ pub.year }}.</span></li>
+{% endfor %}
+</ul>
 
 Awards
 ======

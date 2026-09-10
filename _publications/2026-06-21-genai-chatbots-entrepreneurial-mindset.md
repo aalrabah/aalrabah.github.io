@@ -1,6 +1,8 @@
 ---
 title: "Integrating Generative AI Chatbots to Foster the Entrepreneurial Mindset in Engineering Education"
 collection: publications
+year: 2026
+authors: 'Xing Gao, Abdulrahman AlRabah, Sotiria Koloutsou-Vakakis, Tomasz Kozlowski, Volodymyr Kindratenko, Abdussalam Alawini'
 category: manuscripts
 permalink: /publication/2026-genai-chatbots-entrepreneurial-mindset
 excerpt: 'This paper studies how generative AI chatbots can be integrated into engineering courses to foster an entrepreneurial mindset among students.'

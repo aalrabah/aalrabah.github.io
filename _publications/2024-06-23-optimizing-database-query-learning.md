@@ -1,6 +1,8 @@
 ---
 title: "Optimizing Database Query Learning: A Generative AI Approach for Semantic Error Feedback"
 collection: publications
+year: 2024
+authors: 'Abdulrahman AlRabah, Sophia Yang, Abdussalam Alawini'
 category: manuscripts
 permalink: /publication/2024-optimizing-database-query-learning
 excerpt: 'This paper investigates how generative AI can enhance feedback mechanisms in database education by addressing semantic SQL errors. We fine-tune GPT models on authentic student submissions to deliver nuanced, context-aware feedback, advancing intelligent tutoring for database learning.'

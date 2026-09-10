@@ -1,6 +1,8 @@
 ---
 title: "PredAct-Bench: Benchmarking Tool-Augmented Dialogue under Controlled Tool Noise"
 collection: publications
+year: 2026
+authors: 'Abdulrahman AlRabah, Xiaocheng Yang, Dilek Hakkani-Tür, Abdussalam Alawini'
 category: manuscripts
 permalink: /publication/2026-predact-bench
 excerpt: 'LLMs are increasingly deployed in task-oriented dialogue systems for multi-step decisions in education, healthcare, and finance. Existing benchmarks assume perfectly accurate tool outputs. PredAct-Bench evaluates dialogue agents under controlled tool noise and uncertain human trust, conditions that are common in practice.'

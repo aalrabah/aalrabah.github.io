@@ -5,36 +5,34 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">
-    You can also find my papers on
-    <a href="https://scholar.google.com/citations?user=59V4YHEAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>.
-  </div>
-{% endif %}
-
-
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
+<p>Full list on <a href="https://scholar.google.com/citations?user=59V4YHEAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>.</p>
+
+{% assign pubs = site.publications | sort: "date" | reverse %}
+{% assign years = pubs | map: "year" | uniq %}
+{% for year in years %}
+<h2 class="pub-year">{{ year }}</h2>
+<ul class="pub-list">
+{% for pub in pubs %}
+{% if pub.year == year %}
+  <li class="pub-item">
+    <span class="pub-title"><a href="{{ pub.paperurl }}" target="_blank" rel="noopener noreferrer">{{ pub.title }}</a>{% if pub.award %} <span class="pub-award" title="{{ pub.award }}">&#127942; {{ pub.award }}</span>{% endif %}</span><br>
+    <span class="pub-authors">{{ pub.authors }}</span><br>
+    <span class="pub-venue">{{ pub.venue }}</span>
+  </li>
 {% endif %}
+{% endfor %}
+</ul>
+{% endfor %}
 
-
-
+<style>
+.pub-year { margin-top: 1.6em; margin-bottom: 0.4em; border-bottom: 1px solid #e5e5e5; padding-bottom: 0.2em; }
+.pub-list { list-style: none; padding-left: 0; margin-left: 0; }
+.pub-item { margin-bottom: 1.1em; line-height: 1.45; }
+.pub-title a { font-weight: 600; text-decoration: none; }
+.pub-title a:hover { text-decoration: underline; }
+.pub-authors { font-size: 0.92em; }
+.pub-venue { font-size: 0.88em; color: #777; font-style: italic; }
+.pub-award { font-size: 0.85em; color: #b8860b; font-weight: 600; margin-left: 0.4em; white-space: nowrap; }
+</style>

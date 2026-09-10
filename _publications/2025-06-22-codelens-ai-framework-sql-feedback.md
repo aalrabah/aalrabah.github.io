@@ -1,6 +1,8 @@
 ---
 title: "CodeLens: A Generative AI Framework for Automated Feedback on SQL Assignments"
 collection: publications
+year: 2025
+authors: 'Abdulrahman AlRabah, Abdussalam Alawini'
 category: manuscripts
 permalink: /publication/2025-codelens-ai-framework-sql-feedback
 excerpt: 'This paper introduces CodeLens, a generative AI framework that provides instructor-like feedback on SQL assignments. By guiding large language models with structured prompts and schema context, the system detects semantic errors and generates pedagogically sound feedback, enhancing learning in database courses.'
