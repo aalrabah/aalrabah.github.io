@@ -7,6 +7,5 @@ excerpt: 'This study analyzes student interactions with an AI-powered chatbot de
 date: 2025-06-22
 venue: '2025 ASEE Annual Conference & Exposition'
 paperurl: 'https://peer.asee.org/56204.pdf'
+citation: 'AlRabah, A., Blumthal, M., Koloutsou-Vakakis, S., Kindratenko, V., Kozlowski, T., & Alawini, A. (2025). Data-Driven Insights into AI-Powered Learning: Analyzing Student Interactions with AI-bot in Engineering Education. 2025 ASEE Annual Conference & Exposition.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

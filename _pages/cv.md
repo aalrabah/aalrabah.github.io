@@ -9,56 +9,69 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="{{ base_path }}/files/resume.pdf" class="btn btn--info">Download PDF</a>
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Computer Science, University of Illinois Urbana-Champaign, Aug 2025 – present
+* M.S. in Computer Science, University of Illinois Urbana-Champaign, Dec 2024
+* B.S. in Mechanical Engineering, California State University Northridge, May 2013
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Aug 2025 – present: Graduate Research Assistant, Siebel School Fellow, University of Illinois Urbana-Champaign
+  * Multimodal knowledge graph pipeline for large-scale retrieval and concept extraction, running multi-LLM inference (Llama 3B/8B, Qwen 14B) on H200/A100 GPUs via vLLM with human-in-the-loop evaluation
+  * Agent-based task-oriented dialogue system for contextual risk intervention using belief state tracking, structured databases, and reinforcement learning for action selection
+  * Embodied multi-agent planning by extending PARTNR (Habitat 3.0) with inter-agent dialogue, training coordination policies with SFT and GRPO on Llama 3.1-8B
+  * Generative AI diagnosis pipeline that maps semantic errors to knowledge graph concepts, evaluated against expert human judgments
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan 2025 – Aug 2025: Volunteer Researcher, University of Illinois Urbana-Champaign
+  * Organized course interaction data and summarized usage patterns for an AI-driven education analytics tool
+  * Prototyped a knowledge graph linking student activity signals to learning concepts and prerequisites
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* May 2023 – Dec 2024: Graduate Research Assistant, University of Illinois Urbana-Champaign
+  * Built CodeLens, an AI-powered SQL assistant that gives targeted feedback on semantic errors in student queries, using fine-tuned GPT models on real student submissions
+  * Work published at ASEE 2024 and DataEd 2025
+
+* Aug 2023 – Dec 2023: Researcher, CS 598 Security and Privacy for IoT in Homes, University of Illinois Urbana-Champaign
+  * Designed the user interface for a Matter protocol testbed with a network utility device for traffic sniffing and wireless access
+  * Distinguished Paper Award at SDIoTSec 2024
+
+Industry Experience
+======
+* May 2026 – present: ChipStack AI Super Agent Team, Cadence Design Systems, San Jose, CA
+  * LLM-based agents for automated RTL design and optimization workflows
+  * Benchmarking and evaluation pipelines for agent performance on PPA objectives
+
+* Jun 2023 – Aug 2023: Web Application Developer, Department of Computer Science, University of Illinois Urbana-Champaign
+  * Demo booking website with Python Flask and Google Cloud, including authentication and booking management
+
+* Jan 2016 – Aug 2021: Founder and CEO, Gonuts Cronuts LLC, Kuwait
+  * Ran financial and operational strategy and supply chain analytics for a business supplying 70+ outlets
+
+* Jun 2014 – Dec 2015: Field Engineer, Baker Hughes Drilling Fluids, Ahmadi, Kuwait
+  * Optimized drilling fluid properties using operational and geological data analysis
+
+* Dec 2013 – Jun 2014: Plant Engineer, Alkout Industrial Project, Shuaiba, Kuwait
+  * Plant inspections, scheduled shutdowns, and chemical input process improvements
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python, Java, Matlab, R
+* Frameworks: PyTorch, TensorFlow, vLLM
+* Data: SQL, Neo4j, MongoDB, pandas, NumPy, scikit-learn, PowerBI, Tableau
+* Web and Cloud: HTML, CSS, JavaScript, Docker, AWS, GCP
+* Languages: English (native), Arabic (native), French (basic)
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Awards
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Distinguished Paper Award, SDIoTSec 2024
+* Siebel School Fellow, University of Illinois Urbana-Champaign, 2025
+* 1st place, Fostering the Entrepreneurial Mindset, Babson Global Inc., 2016
+* 1st place, SME Entrepreneurship Diploma, The National Fund, 2016

@@ -1,3 +1,6 @@
+---
+published: false
+---
 ## 🦿 Biped
 Short description of the project  
 <img src="/images/500x300.png" width="400">

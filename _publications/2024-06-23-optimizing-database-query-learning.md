@@ -7,5 +7,5 @@ excerpt: 'This paper investigates how generative AI can enhance feedback mechani
 date: 2024-06-23
 venue: '2024 ASEE Annual Conference & Exposition'
 paperurl: 'https://par.nsf.gov/servlets/purl/10553256'
+citation: 'AlRabah, A., Yang, S., & Alawini, A. (2024). Optimizing Database Query Learning: A Generative AI Approach for Semantic Error Feedback. 2024 ASEE Annual Conference & Exposition, Portland, OR.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
