@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## About Me
-I am a second-year PhD student in Computer Science at the University of Illinois Urbana-Champaign, advised by [Prof. Abdussalam Alawini](https://siebelschool.illinois.edu/about/people/faculty/alawini) and [Prof. Dilek Hakkani-Tür](https://siebelschool.illinois.edu/about/people/faculty/dilek). In 2026, I was a research intern at [Cadence](https://www.cadence.com/), building a memory layer for its AI Super Agent for chip verification.
+I am a second-year PhD student in the [ConvAI Lab](https://uiuc-conversational-ai-lab.github.io/) at the University of Illinois Urbana-Champaign, advised by [Prof. Abdussalam Alawini](https://siebelschool.illinois.edu/about/people/faculty/alawini) and [Prof. Dilek Hakkani-Tür](https://siebelschool.illinois.edu/about/people/faculty/dilek). In 2026, I was a research intern at [Cadence](https://www.cadence.com/), building a memory layer for its AI Super Agent for chip verification.
 
 ## Research Focus
 I study LLM agent reliability, with a focus on
