@@ -13,7 +13,7 @@ I am a second-year PhD student in Computer Science at the University of Illinois
 ## Research Focus
 I study LLM agent reliability, with a focus on
 - **Agent memory**, learning from experience
-- **Shared memory safety** in multi-agent systems
+- **Multi-agent safety** with shared memory
 - **Multi-agent embodied AI**
 
 ## News
